@@ -3,6 +3,9 @@
 
 ![img.png](img.png)
 
+# Использованные датасеты
+
+https://disk.yandex.ru/d/TNiO4WLs-eIVPg
 
 # Установка 
 
